@@ -1,4 +1,4 @@
-# This repository consist of Notebook that is used to train the RNN-ROM model to predict the temperature and Salinity fields
+# This repository consist of Notebook used to train the RNN-ROM model to predict the temperature and Salinity fields
 
 ## The RNN-ROM consist of two parts:
 ### 1.LSTM-Autoencoder- Notebook ILSTM_Spatial_Autoencoder-Salinity-AC.ipynb and ILSTM_Spatial_Autoencoder-Temperature-AC.ipynb has the code used to reduce the underlying dimension of the Salinity and Temperature respectively.
